@@ -1,4 +1,4 @@
-const KEY = 'e761c0cc0c75e9e76bceba6c904ee9f8';
+const KEY = '77e7936073a1f82fbc0d3a17a985fb5b';
 
 // Запит на отримання популярних фільмів
 function fetchMoviesTrend() {
